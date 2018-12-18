@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bb521fc-a9d4-4187-805f-9d8af655bf0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld-stats/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld-stats/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld-stats/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld/module.wasm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld/chartScript.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/.appveyor.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/.cargo-ok" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/.gitignore" afterDir="false" />
@@ -21,7 +15,6 @@
       <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/src/utils.rs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/tests/web.rs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/www" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/www/wasm-pack.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust/helloworld/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust/helloworld/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust/helloworld/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -33,13 +26,9 @@
       <change afterPath="$PROJECT_DIR$/rust/helloworld/Cargo.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust/helloworld/Cargo.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rust/helloworld/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assemblyscript/helloworld/assembly/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/assemblyscript/helloworld/assembly/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assemblyscript/helloworld/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/assemblyscript/helloworld/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assemblyscript/helloworld/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assemblyscript/helloworld/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rust/helloworld-wasm/www" beforeDir="false" afterPath="$PROJECT_DIR$/rust/helloworld-wasm/www" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rust/helloworld-wasm/www/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/rust/helloworld-wasm/www/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rust/helloworld-webpack-wasm" beforeDir="false" afterPath="$PROJECT_DIR$/rust/helloworld-webpack-wasm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rust/helloworld-webpack-wasm/crate/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/rust/helloworld-webpack-wasm/crate/src/lib.rs" afterDir="false" />
     </list>
@@ -103,7 +92,7 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
-          <entry key="js" value="4" />
+          <entry key="js" value="5" />
           <entry key="json" value="7" />
           <entry key="md" value="1" />
           <entry key="ts" value="1" />
@@ -114,7 +103,7 @@
           <entry key="Git file" value="1" />
           <entry key="HTML" value="1" />
           <entry key="JSON" value="6" />
-          <entry key="JavaScript" value="4" />
+          <entry key="JavaScript" value="5" />
           <entry key="Markdown" value="1" />
           <entry key="TypeScript" value="1" />
           <entry key="tsconfig" value="1" />
@@ -128,8 +117,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="9" />
-          <entry key="html" value="1692" />
-          <entry key="js" value="394" />
+          <entry key="html" value="1706" />
+          <entry key="js" value="396" />
           <entry key="json" value="52" />
           <entry key="ts" value="83" />
         </counts>
@@ -137,9 +126,9 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Git file" value="9" />
-          <entry key="HTML" value="1692" />
+          <entry key="HTML" value="1706" />
           <entry key="JSON" value="51" />
-          <entry key="JavaScript" value="394" />
+          <entry key="JavaScript" value="396" />
           <entry key="TypeScript" value="83" />
           <entry key="tsconfig" value="1" />
         </counts>
@@ -178,14 +167,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="398">
+              <caret line="55" column="10" lean-forward="true" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#canvas#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/chartScript.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -253,6 +247,7 @@
         <option value="$PROJECT_DIR$/assemblyscript/helloworld/index.js" />
         <option value="$PROJECT_DIR$/assemblyscript/helloworld-stats/db.json" />
         <option value="$PROJECT_DIR$/assemblyscript/helloworld-stats/src/index.js" />
+        <option value="$PROJECT_DIR$/assemblyscript/helloworld/chartScript.js" />
         <option value="$PROJECT_DIR$/assemblyscript/helloworld/index.html" />
       </list>
     </option>
@@ -1555,12 +1550,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545132599086</updated>
       <workItem from="1545132600249" duration="3815000" />
-      <workItem from="1545164855024" duration="8302000" />
+      <workItem from="1545164855024" duration="8460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12117000" />
+    <option name="totallyTimeSpent" value="12275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="2560" height="1048" extended-state="6" />
@@ -1696,10 +1691,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/chartScript.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="398">
+          <caret line="55" column="10" lean-forward="true" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#canvas#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assemblyscript/assemblyscript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assemblyscript/helloworld/assemblyscript" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/helloworld" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/helloworld-wasm" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life" vcs="Git" />

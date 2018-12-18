@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello WASM!</title>
+</head>
+<body>
+<div style="width: 100%; max-height: 900px;">
+    <canvas id="myChart" style="width: 100%; max-height: 900px;"></canvas>
+</div>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.js"></script>
+<!--<script>-->
+<!--fetch("module.wasm").then(response =>-->
+<!--response.arrayBuffer()-->
+<!--).then(bytes =>-->
+<!--WebAssembly.instantiate(bytes, {imports: {}})-->
+<!--).then(results => {-->
+
+<!--function simpleFib(n) {-->
+<!--let i, t, a = 0, b = 1;-->
+<!--for (i = 0; i < n; i++) {-->
+<!--t = a + b; a = b; b = t;-->
+<!--}-->
+<!--return b;-->
+<!--}-->
+<!--function timer(fn, input) {-->
+<!--const start = window.performance.now();-->
+<!--console.time("timer");-->
+<!--fn(input);-->
+<!--console.timeEnd("timer");-->
+<!--const end = window.performance.now();-->
+<!--return end - start;-->
+<!--}-->
+
+<!--window.fib = results.instance.exports.fib;-->
+
+<!--console.log('JAVASCRIPT');-->
+<!--const js = timer(simpleFib, 99999);-->
+<!--console.log('WEBASSEMBLY');-->
+<!--const wasm = timer(window.fib, 99999);-->
+<!--console.log();-->
+<!--console.log(js / wasm * 100 + '% sneller/langzamer');-->
+
+<!--window.axios.post('http://localhost:3000/record-stat', {-->
+<!--wasm: wasm,-->
+<!--js: js,-->
+<!--time: new Date()-->
+<!--})-->
+<!--.then(() => {-->
+<!--setTimeout(() => {-->
+<!--// window.location.reload();-->
+<!--}, 100);-->
+<!--});-->
+
+<!--});-->
+<!--</script>-->
+<script>
+	window.axios.get('http://localhost:3000/get-stat')
+		.then((request) => {
+			const data = request.data;
+			let sumWasm = 0;
+			let sumJs = 0;
+			var ctx = document.getElementById("myChart").getContext('2d');
+
+			var myChart = new Chart(ctx, {
+				type: 'line',
+				data: {
+					labels: data.map((val) => ""),
+					datasets: [
+						{
+							label: 'WebAssembly',
+							data: data.map((val) => {
+								sumWasm += val.wasm;
+								return ({
+									t: data.map((val) => ""),
+									y: val.wasm
+								})
+							})
+							,
+							backgroundColor: 'transparent',
+							borderColor: 'blue',
+							borderWidth: 5
+						},
+						{
+							label: 'JavaScript',
+							data: data.map((val) => {
+								sumJs += val.js;
+								return ({
+									t: data.map((val) => ""),
+									y: val.js
+								})
+							})
+							,
+							backgroundColor: 'transparent',
+							borderColor: 'yellow',
+							borderWidth: 5
+						}]
+				}
+			});
+			const avgJS = sumJs / data.length;
+			const avgWASM = sumWasm / data.length;
+			console.log("avg JS: ", avgJS.toFixed(5));
+			console.log("avg wasm: ", avgWASM.toFixed(5));
+			console.log((avgJS / avgWASM * 100).toFixed(2) + '% faster/slower');
+			// var myChart = new Chart(ctx, {
+			// 	type: 'line',
+			// 	data: {
+			// 		labels: [data.map((val) => val.time)],
+			// 		datasets: [
+			// 			{
+			// 			label: 'WebAssembly',
+			// 			data: [data.map((val) => val.wasm)],
+			// 			borderColor: 'blue',
+			// 				backgroundColor: 'transparent',
+			// 				borderWidth: 1
+			// 		},
+			// 			{
+			// 				label: 'JavaScript',
+			// 				data: [data.map((val) => val.js)],
+			// 				borderColor: 'red',
+			//                 backgroundColor: 'transparent',
+			// 				borderWidth: 1
+			// 			}
+			// 		]
+			// 	},
+			// 	options: {
+			// 		scales: {
+			// 			yAxes: [{
+			// 				ticks: {
+			// 					beginAtZero:true
+			// 				}
+			// 			}]
+			// 		}
+			// 	}
+			// });
+		})
+
+</script>
+</body>
+</html>

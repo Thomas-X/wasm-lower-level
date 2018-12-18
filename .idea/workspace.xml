@@ -2,37 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bb521fc-a9d4-4187-805f-9d8af655bf0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/.appveyor.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/.cargo-ok" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/LICENSE_APACHE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/LICENSE_MIT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/src/utils.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/tests/web.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-wasm/www" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld-webpack-wasm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/.idea/helloworld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld-stats/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld-stats/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld-stats/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld/module.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assemblyscript/helloworld/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/.appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/.cargo-ok" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/LICENSE_APACHE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/LICENSE_MIT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/src/utils.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/tests/web.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld-wasm/www/wasm-pack.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld/.idea/helloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/helloworld/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld-wasm/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld-wasm/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld-wasm/www" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld-wasm/www" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld-wasm/www/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld-wasm/www/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld-webpack-wasm/crate/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld-webpack-wasm/crate/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wasm-pack.log" beforeDir="false" afterPath="$PROJECT_DIR$/wasm-pack.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assemblyscript/helloworld/assembly/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/assemblyscript/helloworld/assembly/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assemblyscript/helloworld/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/assemblyscript/helloworld/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/helloworld-wasm/www" beforeDir="false" afterPath="$PROJECT_DIR$/rust/helloworld-wasm/www" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/helloworld-wasm/www/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/rust/helloworld-wasm/www/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/helloworld-webpack-wasm" beforeDir="false" afterPath="$PROJECT_DIR$/rust/helloworld-webpack-wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/helloworld-webpack-wasm/crate/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/rust/helloworld-webpack-wasm/crate/src/lib.rs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,22 +92,152 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1695259940">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="4" />
+          <entry key="json" value="7" />
+          <entry key="md" value="1" />
+          <entry key="ts" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Git file" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="6" />
+          <entry key="JavaScript" value="4" />
+          <entry key="Markdown" value="1" />
+          <entry key="TypeScript" value="1" />
+          <entry key="tsconfig" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="9" />
+          <entry key="html" value="1692" />
+          <entry key="js" value="394" />
+          <entry key="json" value="52" />
+          <entry key="ts" value="83" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Git file" value="9" />
+          <entry key="HTML" value="1692" />
+          <entry key="JSON" value="51" />
+          <entry key="JavaScript" value="394" />
+          <entry key="TypeScript" value="83" />
+          <entry key="tsconfig" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/helloworld-webpack-wasm/crate/src/lib.rs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="46">
+              <caret line="2" column="125" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="125" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/assembly/index.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#canvas#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld-stats/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld-stats/db.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld-stats/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/assembly/tsconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/helloworld-webpack-wasm" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -107,6 +246,14 @@
         <option value="$PROJECT_DIR$/helloworld-wasm/src/lib.rs" />
         <option value="$PROJECT_DIR$/helloworld-wasm/www/index.js" />
         <option value="$PROJECT_DIR$/helloworld-webpack-wasm/crate/src/lib.rs" />
+        <option value="$PROJECT_DIR$/assemblyscript/helloworld/.gitignore" />
+        <option value="$PROJECT_DIR$/assemblyscript/helloworld/assembly/tsconfig.json" />
+        <option value="$PROJECT_DIR$/assemblyscript/helloworld/assembly/index.ts" />
+        <option value="$PROJECT_DIR$/assemblyscript/helloworld-stats/package.json" />
+        <option value="$PROJECT_DIR$/assemblyscript/helloworld/index.js" />
+        <option value="$PROJECT_DIR$/assemblyscript/helloworld-stats/db.json" />
+        <option value="$PROJECT_DIR$/assemblyscript/helloworld-stats/src/index.js" />
+        <option value="$PROJECT_DIR$/assemblyscript/helloworld/index.html" />
       </list>
     </option>
   </component>
@@ -117,15 +264,1170 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/helloworld-wasm/www/node_modules" />
-    <handled-path value="$PROJECT_DIR$/helloworld-webpack-wasm/node_modules" />
+    <handled-path value="$PROJECT_DIR$/assemblyscript/helloworld-stats/node_modules" />
+    <handled-path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules" />
+    <handled-path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/helloworld-wasm/pkg/package.json" />
-      <path value="$PROJECT_DIR$/helloworld-wasm/www/package.json" />
-      <path value="$PROJECT_DIR$/helloworld-webpack-wasm/crate/pkg/package.json" />
-      <path value="$PROJECT_DIR$/helloworld-webpack-wasm/package.json" />
+      <path value="$PROJECT_DIR$/assemblyscript/helloworld-stats/package.json" />
+      <path value="$PROJECT_DIR$/assemblyscript/helloworld/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/pkg/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/ast/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/floating-point-hex-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/helper-api-error/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/helper-buffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/helper-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/helper-fsm/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/helper-module-context/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/helper-wasm-section/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/leb128/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/utf8/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/wasm-edit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/wasm-gen/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/wasm-opt/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/wasm-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/wast-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@webassemblyjs/wast-printer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@xtuc/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/@xtuc/long/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/acorn-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ajv-errors/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ajv-keywords/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ansi-colors/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ansi-html/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/asn1.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/assert/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/assert/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/assert/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/base/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/base/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/base/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/big.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/bonjour/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/braces/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/browserify-aes/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/browserify-cipher/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/browserify-des/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/browserify-rsa/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/browserify-sign/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/browserify-zlib/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/buffer-from/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/buffer-indexof/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/buffer-xor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/builtin-status-codes/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/chrome-trace-event/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/cipher-base/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/class-utils/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/class-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/commondir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/compressible/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/compression/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/compression/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/connect-history-api-fallback/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/console-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/constants-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/copy-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/copy-webpack-plugin/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/copy-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/create-ecdh/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/create-hash/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/create-hmac/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/crypto-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/cyclist/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/date-now/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/default-gateway/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/define-property/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/des.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/detect-node/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/diffie-hellman/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/dir-glob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/dns-equal/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/dns-packet/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/dns-txt/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/domain-browser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/duplexify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/emojis-list/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/enhanced-resolve/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/eslint-scope/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/esrecurse/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/events/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/eventsource/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/evp_bytestokey/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/expand-brackets/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/extend-shallow/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/extglob/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/extglob/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/figgy-pudding/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/fill-range/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/flush-write-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/follow-redirects/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/fragment-cache/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/from2/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/fs-write-stream-atomic/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/get-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/glob-parent/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/global-modules-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/globby/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/handle-thing/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/has-values/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/hello-wasm-pack/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/hmac-drbg/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/hpack.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/html-entities/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/http-deceiver/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/http-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/http-proxy-middleware/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/https-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ignore/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/import-local/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/import-local/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/import-local/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/import-local/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/import-local/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/import-local/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/import-local/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/imurmurhash/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/internal-ip/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/interpret/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ip-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-number/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-path-cwd/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-path-in-cwd/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/is-wsl/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/json-parse-better-errors/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/killable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/loader-runner/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/lodash.debounce/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/loglevel/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/map-age-cleaner/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/md5.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/mem/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/memory-fs/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/miller-rabin/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/minimalistic-assert/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/minimalistic-crypto-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/mixin-deep/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/move-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/multicast-dns-service-types/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/multicast-dns/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/neo-async/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/nice-try/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/node-forge/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/node-libs-browser/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/node-libs-browser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/object-copy/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/object-copy/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/obuf/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/original/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/os-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/p-defer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/p-is-promise/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/p-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/pako/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/parallel-transform/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/parse-asn1/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/pascalcase/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/path-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/pbkdf2/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/portfinder/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/portfinder/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/posix-character-classes/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/process/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/promise-inflight/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/public-encrypt/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/pumpify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/querystring-es3/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/querystring/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/querystringify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/randombytes/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/randomfill/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/readdirp/examples/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/regex-not/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/resolve-cwd/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ripemd160/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/run-queue/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/safe-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/select-hose/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/selfsigned/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/serialize-javascript/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/serve-index/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/set-immediate-shim/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/set-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/sha.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/snapdragon-node/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/snapdragon-node/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/snapdragon-node/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/snapdragon-node/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/snapdragon-node/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/snapdragon-util/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/snapdragon-util/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/snapdragon/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/snapdragon/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/snapdragon/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/sockjs-client/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/sockjs-client/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/sockjs/examples/echo/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/sockjs/examples/express-3.x/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/sockjs/examples/express/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/sockjs/examples/hapi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/sockjs/examples/koa/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/sockjs/examples/multiplex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/sockjs/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/source-map-support/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/spdy-transport/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/spdy-transport/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/spdy/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/spdy/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/split-string/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/static-extend/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/stream-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/stream-each/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/stream-http/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/stream-http/test/browser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/stream-shift/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/tapable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/terser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/thunky/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/timers-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/to-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/to-object-path/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/to-regex-range/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/to-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/tty-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/union-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/union-value/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/unique-filename/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/unique-slug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/uri-js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/url-parse/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/url/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/url/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/v8-compile-cache/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/vm-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/watchpack/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/wbuf/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack-cli/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack-cli/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack-dev-middleware/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack-dev-middleware/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack-dev-server/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack-dev-server/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack-dev-server/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack-dev-server/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack-log/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack-sources/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack-sources/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack/node_modules/tapable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/webpack/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/worker-farm/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/wrap-ansi/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/wrap-ansi/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/wrap-ansi/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/wrap-ansi/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/xregexp/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/yargs/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/yargs/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/yargs/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/yargs/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/yargs/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-wasm/www/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/crate/pkg/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@wasm-tool/wasm-pack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/ast/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/floating-point-hex-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/helper-api-error/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/helper-buffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/helper-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/helper-fsm/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/helper-module-context/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/helper-wasm-section/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/leb128/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/utf8/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/wasm-edit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/wasm-gen/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/wasm-opt/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/wasm-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/wast-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@webassemblyjs/wast-printer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@xtuc/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/@xtuc/long/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/acorn-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ajv-errors/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ajv-keywords/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ansi-colors/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ansi-html/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/asn1.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/assert/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/assert/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/assert/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/base/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/base/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/base/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/big.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/bonjour/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/boolbase/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/braces/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/browserify-aes/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/browserify-cipher/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/browserify-des/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/browserify-rsa/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/browserify-sign/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/browserify-zlib/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/buffer-from/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/buffer-indexof/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/buffer-xor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/builtin-status-codes/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/camel-case/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/chrome-trace-event/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/cipher-base/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/class-utils/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/class-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/cliui/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/cliui/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/command-exists/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/commondir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/compressible/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/compression/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/compression/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/connect-history-api-fallback/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/console-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/constants-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/copy-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/create-ecdh/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/create-hash/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/create-hmac/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/crypto-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/css-select/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/css-what/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/cyclist/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/date-now/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/default-gateway/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/define-properties/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/define-property/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/des.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/detect-node/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/diffie-hellman/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/dns-equal/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/dns-packet/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/dns-txt/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/dom-converter/node_modules/utila/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/dom-converter/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/dom-serializer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/domain-browser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/domhandler/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/duplexify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/emojis-list/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/enhanced-resolve/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/es-abstract/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/es-to-primitive/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/eslint-scope/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/esrecurse/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/events/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/eventsource/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/evp_bytestokey/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/expand-brackets/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/extend-shallow/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/extglob/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/extglob/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/figgy-pudding/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/fill-range/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/flush-write-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/follow-redirects/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/foreach/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/fragment-cache/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/from2/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/fs-write-stream-atomic/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/get-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/glob-parent/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/global-modules-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/globby/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/handle-thing/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/has-values/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/hmac-drbg/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/hpack.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/html-entities/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/html-minifier/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/html-minifier/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/html-minifier/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/html-minifier/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/html-webpack-plugin/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/html-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/htmlparser2/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/htmlparser2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/htmlparser2/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/htmlparser2/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/http-deceiver/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/http-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/http-proxy-middleware/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/https-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/import-local/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/import-local/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/import-local/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/import-local/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/import-local/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/import-local/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/import-local/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/imurmurhash/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/internal-ip/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/interpret/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ip-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-callable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-date-object/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-number/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-path-cwd/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-path-in-cwd/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-symbol/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/is-wsl/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/json-parse-better-errors/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/killable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/loader-runner/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/lodash.debounce/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/loglevel/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/lower-case/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/map-age-cleaner/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/md5.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/mem/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/memory-fs/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/memory-fs/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/memory-fs/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/memory-fs/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/miller-rabin/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/minimalistic-assert/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/minimalistic-crypto-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/mixin-deep/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/move-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/multicast-dns-service-types/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/multicast-dns/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/neo-async/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/nice-try/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/no-case/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/node-forge/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/node-libs-browser/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/node-libs-browser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/nth-check/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/object-copy/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/object-copy/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/object.getownpropertydescriptors/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/obuf/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/original/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/os-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/p-defer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/p-is-promise/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/p-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pako/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/parallel-transform/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/param-case/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/parse-asn1/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pascalcase/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/path-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pbkdf2/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/portfinder/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/portfinder/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/posix-character-classes/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pretty-error/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/process/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/promise-inflight/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/public-encrypt/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pumpify/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/pumpify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/querystring-es3/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/querystring/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/querystringify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/randombytes/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/randomfill/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/readdirp/examples/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/readdirp/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/readdirp/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/readdirp/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/regex-not/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/relateurl/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/renderkid/node_modules/utila/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/renderkid/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/resolve-cwd/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ripemd160/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/run-queue/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/safe-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/select-hose/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/selfsigned/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/serialize-javascript/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/serve-index/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/set-immediate-shim/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/set-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/sha.js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/snapdragon-node/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/snapdragon-node/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/snapdragon-node/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/snapdragon-node/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/snapdragon-node/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/snapdragon-util/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/snapdragon-util/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/snapdragon/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/snapdragon/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/snapdragon/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/sockjs-client/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/sockjs-client/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/sockjs/examples/echo/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/sockjs/examples/express-3.x/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/sockjs/examples/express/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/sockjs/examples/hapi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/sockjs/examples/koa/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/sockjs/examples/multiplex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/sockjs/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/source-map-support/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/spdy-transport/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/spdy-transport/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/spdy/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/spdy/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/split-string/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/static-extend/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/stream-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/stream-each/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/stream-http/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/stream-http/test/browser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/stream-shift/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/string-width/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/string-width/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/tapable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/terser-webpack-plugin/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/terser-webpack-plugin/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/terser-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/terser/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/terser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/thunky/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/timers-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/to-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/to-object-path/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/to-regex-range/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/to-regex/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/toposort/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/tty-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/union-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/union-value/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/unique-filename/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/unique-slug/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/unset-value/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/upper-case/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/uri-js/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/url-parse/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/url/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/url/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/util.promisify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/utila/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/v8-compile-cache/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/vm-browserify/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/watchpack/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/wbuf/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/webpack-cli/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/webpack-cli/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/webpack-dev-middleware/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/webpack-dev-middleware/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/webpack-dev-server/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/webpack-dev-server/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/webpack-log/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/webpack-sources/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/webpack-sources/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/webpack/node_modules/tapable/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/webpack/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/worker-farm/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/wrap-ansi/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/wrap-ansi/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/xregexp/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/yargs/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/yargs/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/yargs/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/yargs/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/yargs/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/rust/helloworld-webpack-wasm/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -158,39 +1460,46 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="rust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust" type="462c0819:PsiDirectoryNode" />
+              <item name="wasm-lower-level" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wasm-lower-level" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="rust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust" type="462c0819:PsiDirectoryNode" />
-              <item name="helloworld-webpack-wasm" type="462c0819:PsiDirectoryNode" />
+              <item name="wasm-lower-level" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wasm-lower-level" type="462c0819:PsiDirectoryNode" />
+              <item name="assemblyscript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="rust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust" type="462c0819:PsiDirectoryNode" />
-              <item name="helloworld-webpack-wasm" type="462c0819:PsiDirectoryNode" />
-              <item name="crate" type="462c0819:PsiDirectoryNode" />
+              <item name="wasm-lower-level" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wasm-lower-level" type="462c0819:PsiDirectoryNode" />
+              <item name="assemblyscript" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="rust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust" type="462c0819:PsiDirectoryNode" />
-              <item name="helloworld-webpack-wasm" type="462c0819:PsiDirectoryNode" />
-              <item name="crate" type="462c0819:PsiDirectoryNode" />
+              <item name="wasm-lower-level" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wasm-lower-level" type="462c0819:PsiDirectoryNode" />
+              <item name="assemblyscript" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-stats" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wasm-lower-level" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wasm-lower-level" type="462c0819:PsiDirectoryNode" />
+              <item name="assemblyscript" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-stats" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -198,6 +1507,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/assemblyscript/assemblyscript/node_modules/typescript/lib" />
+    <property name="typescript-compiler-editor-notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assemblyscript" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -211,6 +1527,23 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="asbuild:untouched" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/assemblyscript/helloworld/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="asbuild:untouched" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.asbuild:untouched" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -222,24 +1555,21 @@
       <option name="presentableId" value="Default" />
       <updated>1545132599086</updated>
       <workItem from="1545132600249" duration="3815000" />
+      <workItem from="1545164855024" duration="8302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3815000" />
+    <option name="totallyTimeSpent" value="12117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="2560" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.34061137" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -247,11 +1577,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Cargo" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26746726" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,104 +1596,114 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/Cargo.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/Cargo.toml" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/pkg/wasm_game_of_life.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/pkg/wasm_game_of_life.js" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/pkg/package.json" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/src/lib.rs" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/package.json" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/.bin/create-wasm-app.js" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/LICENSE-APACHE" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/LICENSE-MIT" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/index.js" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/www/.bin/create-wasm-app.js" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/www/index.js" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/src/lib.rs" />
+    <entry file="file://$PROJECT_DIR$/helloworld-wasm/src/utils.rs" />
+    <entry file="file://$PROJECT_DIR$/helloworld-webpack-wasm/crate/src/lib.rs" />
+    <entry file="file://$PROJECT_DIR$/assemblyscript/assemblyscript/CODE_OF_CONDUCT.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="299">
+            <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/pkg/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/src/lib.rs">
+    <entry file="file://$PROJECT_DIR$/assemblyscript/assemblyscript/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
+        <state relative-caret-position="-966" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/.bin/create-wasm-app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/LICENSE-APACHE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-414" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/LICENSE-MIT">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/www/.bin/create-wasm-app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/www/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/src/lib.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-          <folding>
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-wasm/src/utils.rs">
+    <entry file="file://$PROJECT_DIR$/../node_modules/assemblyscript/std/assembly.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld-webpack-wasm/crate/src/lib.rs">
+    <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/assembly/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="23">
+          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="125" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/assembly/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld-stats/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld-stats/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld-stats/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assemblyscript/helloworld/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#canvas#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

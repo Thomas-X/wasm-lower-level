@@ -8,5 +8,9 @@
     <mapping directory="$PROJECT_DIR$/helloworld-wasm/wasm-game-of-life/www" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/helloworld-wasm/www" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/helloworld-webpack-wasm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust/helloworld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust/helloworld-wasm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust/helloworld-wasm/www" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust/helloworld-webpack-wasm" vcs="Git" />
   </component>
 </project>

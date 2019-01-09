@@ -6,7 +6,17 @@
       <sourceFolder url="file://$MODULE_DIR$/helloworld-wasm/wasm-game-of-life/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/helloworld-wasm/wasm-game-of-life/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/helloworld-wasm/wasm-game-of-life/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/yew-counter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/yew-counter/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/yew-counter/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/yew-counter/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/game-of-life/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/game-of-life/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/game-of-life/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/game-of-life/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/helloworld-wasm/wasm-game-of-life/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/game-of-life/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/yew-counter/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

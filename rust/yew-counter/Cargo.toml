@@ -1,0 +1,14 @@
+[package]
+name = "counter"
+version = "0.1.1"
+authors = ["Thomas Zwarts <thomaszwarts@gmail.com>"]
+
+[dependencies]
+stdweb = "0.4.2"
+yew = "0.4.0"
+
+[dependencies.web-sys]
+version = "0.3"
+features = [
+  "console",
+]
